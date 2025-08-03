@@ -1,6 +1,6 @@
 # ReadWithCard - AI-Powered Language Learning App
 
-An intelligent flashcard application that transforms images into interactive learning cards using **Google Gemini AI** and **OCR technology**. Built for the **BTK AI in Education Hackathon 2025**.
+An intelligent flashcard application that transforms images into interactive learning cards using **Google Gemini AI** and **OCR technology**. Built for the **AI in Education and E-commerce Hackathon 2025**, a collaboration between **BTK Akademi, Google, and Girişimcilik Vakfı**.
 
 ## 🎯 Project Overview
 
@@ -112,11 +112,11 @@ ReadWithCard-Hackathon/
 
 - **Google Gemini AI** for powerful language processing capabilities
 - **Tesseract OCR** for robust text extraction
-- **BTK Academy ** for organizing the AI in Education and E-commerce
+- **BTK Akademi, Google, and Girişimcilik Vakfı** for organizing this inspiring hackathon.
 - **React Native & Expo** communities for excellent development tools
 
 ---
 
-**Developed for Hackathon 2025 organized by BTK**
+**Developed for the Hackathon 2025 organized by BTK Akademi, Google, and Girişimcilik Vakfı**
 
 *Transforming the way we learn languages through AI innovation*
