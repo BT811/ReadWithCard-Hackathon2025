@@ -101,7 +101,7 @@ ReadWithCard-Hackathon/
 ├── ReadWithCard/              # React Native Frontend
 │   ├── components/            # React components
 │   ├── screens/              # App screens
-│   ├── services/             # API services
+│   ├── services/             # Services
 │   ├── db/                   # Database configuration
 │   ├── navigator/            # Navigation setup
 │   └── package.json          # Node dependencies
