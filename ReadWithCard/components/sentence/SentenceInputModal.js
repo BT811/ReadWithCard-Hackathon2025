@@ -14,7 +14,7 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 import { ApiService } from '../../services/apiService';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import Markdown from 'react-native-markdown-display'; // BU SATIRI EKLE
+import Markdown from 'react-native-markdown-display'; 
 
 const { height } = Dimensions.get('window');
 
