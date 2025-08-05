@@ -156,7 +156,7 @@ class CreateCardService:
         if not image_content:
             raise ValueError("Empty image content")
         
-        if len(image_content) > 10 * 1024 * 1024: 
+        if len(image_content) > MAX_IMAGE_SIZE: 
             raise ValueError("Image too large")
         
         try:
