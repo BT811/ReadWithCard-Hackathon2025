@@ -132,7 +132,9 @@ class CreateCardService:
                             description=card_details.description,
                             synonyms=card_details.synonyms,
                             sentence=card_details.sentence,
-                            t_sentence=card_details.t_sentence
+                            t_sentence=card_details.t_sentence,
+                            pronunciation=card_details.pronunciation,
+                            part_of_speech=card_details.part_of_speech,
                         )
                         
                         cards.append(card)
