@@ -8,7 +8,7 @@ from app.services.gemini_service import GeminiService
 from app.models.card import Card
 import os
 import uuid
-from typing import Dict, List  
+from typing import Dict, List , Any 
 
 # Constants for image and text processing limits
 MAX_IMAGE_SIZE = 10 * 1024 * 1024  
@@ -149,7 +149,7 @@ class CreateCardService:
         self, 
         image_content: bytes, 
         words: List[str]
-    ) -> Dict[str, any]:
+    ) -> Dict[str, Any]:
         """Multi-server ready OCR processing"""
         if not image_content:
             raise ValueError("Empty image content")
