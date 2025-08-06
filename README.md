@@ -29,7 +29,7 @@ ReadWithCard is a language learning tool designed to turn your physical books in
 - **Expo**: Rapid development and deployment platform
 - **SQLite**: Local database for card storage
 
-<img width="1042" height="530" alt="image" src="https://github.com/user-attachments/assets/1f3ae136-e6b5-49ff-929b-e10cf7720d15" />
+[<img width="1042" height="530" alt="image" src="https://github.com/user-attachments/assets/1f3ae136-e6b5-49ff-929b-e10cf7720d15" />](https://github.com/BT811/ReadWithCard-Hackathon2025/blob/aeb11ccc3d46f8ac3697f3f1eb72fdba97ac31cb/Ads%C4%B1z%20tasar%C4%B1m%20(5).png)
 
 ## 📱 Usage
 
