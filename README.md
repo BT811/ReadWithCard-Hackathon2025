@@ -2,6 +2,8 @@
 
 An intelligent flashcard application that transforms images into interactive learning cards using **Google Gemini AI** and **OCR technology**. Built for the **AI in Education and E-commerce Hackathon 2025**, a collaboration between **BTK Akademi, Google, and Türkiye Girişimcilik Vakfı**.
 
+Video(Turkish): https://youtu.be/nrg6VnFfx6k?si=KR3juIWW7ALNdj7P
+
 ## 🎯 Project Overview
 
 ReadWithCard is a language learning tool designed to turn your physical books into an interactive vocabulary-building experience. It empowers learners to create digital flashcards directly from printed pages, articles, or any text they encounter. Simply take a photo, and our AI-powered system extracts the text, analyzes your chosen words, and builds comprehensive learning cards that include translations, pronunciations, and the original sentence for authentic context.
